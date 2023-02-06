@@ -4,7 +4,6 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
-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
 
 * Ruby version
 
